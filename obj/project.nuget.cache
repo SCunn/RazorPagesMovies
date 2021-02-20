@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "3sMOfW9lh5LG26YoVZsDrHFa6wVrtUbE+w355YJJJKQePG8DzW4JBcI8VEPMdbMb+syRqL5vEUvC3fAGBIUPqA==",
+  "success": true,
+  "projectFilePath": "/home/shane/RazorPagesMovie/RazorPagesMovie.csproj",
+  "expectedPackageFiles": [
+    "/home/shane/.nuget/packages/microsoft.extensions.dependencyinjection/5.0.0/microsoft.extensions.dependencyinjection.5.0.0.nupkg.sha512",
+    "/home/shane/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/5.0.0/microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512",
+    "/home/shane/.nuget/packages/microsoft.extensions.logging/5.0.0/microsoft.extensions.logging.5.0.0.nupkg.sha512",
+    "/home/shane/.nuget/packages/microsoft.extensions.logging.abstractions/5.0.0/microsoft.extensions.logging.abstractions.5.0.0.nupkg.sha512",
+    "/home/shane/.nuget/packages/microsoft.extensions.logging.debug/5.0.0/microsoft.extensions.logging.debug.5.0.0.nupkg.sha512",
+    "/home/shane/.nuget/packages/microsoft.extensions.options/5.0.0/microsoft.extensions.options.5.0.0.nupkg.sha512",
+    "/home/shane/.nuget/packages/microsoft.extensions.primitives/5.0.0/microsoft.extensions.primitives.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
